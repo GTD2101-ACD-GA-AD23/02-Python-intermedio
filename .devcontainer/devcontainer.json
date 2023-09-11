@@ -1,7 +1,11 @@
 {
-  "extensions" : [
-	"GitHub.copilot",
-	"ms-python.python",
-	"ms-toolsai.jupyter"
-]
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"GitHub.copilot",
+				"ms-python.python",
+				"ms-toolsai.jupyter"
+			]
+		}
+	}
 }
